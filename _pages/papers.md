@@ -12,7 +12,10 @@ author_profile: true
 ACS Photonics, 2022
 
 R Zvagelsky, P Kiefer, J Weinacker, M Wegener
-[Paper](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00625)
+
+[[link]](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00625)
+
+In-situ phase imaging of 2.5D structures based on the transport-of-intensity-equation for commercial laser printers.
 
 
 
