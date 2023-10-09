@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![](./images/images_large_ph3c00625_0006.jpeg)
+![here](./images/images_large_ph3c00625_0006.jpeg)
 
 **In-situ Quantitative Phase Imaging during Multi-photon Laser Printing**
 ACS Photonics, 2022
